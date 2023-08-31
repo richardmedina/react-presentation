@@ -1,0 +1,53 @@
+
+[
+    {
+        "firstName": "Person1",
+        "lastName": "LastName1",
+        "email": "person1@epam.com"
+    },
+    {
+        "firstName": "Person2",
+        "lastName": "LastName2",
+        "email": "person2@epam.com"
+    },
+    {
+        "firstName": "Person3",
+        "lastName": "LastName3",
+        "email": "person3@epam.com"
+    },
+    {
+        "firstName": "Person4",
+        "lastName": "LastName4",
+        "email": "person4@epam.com"
+    },
+    {
+        "firstName": "Person5",
+        "lastName": "LastName5",
+        "email": "person5@epam.com"
+    },
+    {
+        "firstName": "Person6",
+        "lastName": "LastName6",
+        "email": "person6@epam.com"
+    },
+    {
+        "firstName": "Person7",
+        "lastName": "LastName7",
+        "email": "person7@epam.com"
+    },
+    {
+        "firstName": "Person8",
+        "lastName": "LastName8",
+        "email": "person8@epam.com"
+    },
+    {
+        "firstName": "Person9",
+        "lastName": "LastName9",
+        "email": "person9@epam.com"
+    },
+    {
+        "firstName": "Person10",
+        "lastName": "LastName10",
+        "email": "person10@epam.com"
+    }
+]

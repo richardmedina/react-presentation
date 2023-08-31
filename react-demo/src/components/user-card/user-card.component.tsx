@@ -7,7 +7,7 @@ type UserCardProps = {
   email: string;
 }
 
-class WithpropsUserCard extends React.Component<UserCardProps> {
+class UserCard extends React.Component<UserCardProps> {
   render() {
     const { firstName, lastName, email } = this.props;
 
@@ -31,4 +31,4 @@ class WithpropsUserCard extends React.Component<UserCardProps> {
   }
 }
 
-export default WithpropsUserCard;
+export default UserCard;
