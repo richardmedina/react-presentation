@@ -1,24 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import HardcodedUserCard from './components/hardcoded-user-card/hardcoded-user-card.component';
+import WithpropsUserCard from './components/withprops-user-card/withprops-user-card.component';
+import UserCard from './components/user-card/user-card.component';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <HardcodedUserCard />
+      <WithpropsUserCard firstName="Ricardo2" lastName="Medina2" email="Ricardo_Medina2@epam.com" />
+      <UserCard firstName="Ricardo2" lastName="Medina2" email="Ricardo_Medina2@epam.com" />
     </div>
   );
 }

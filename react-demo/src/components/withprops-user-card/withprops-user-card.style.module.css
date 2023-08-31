@@ -1,0 +1,15 @@
+.userCard {
+  margin: 5px;
+  border: dashed green 2px;
+}
+
+.userCardPicture {
+  margin: 5px;
+  border: dashed 1px blue;
+}
+
+.userCardInformation {
+  margin: 5px;
+  border: dashed 1px red;
+}
+
